@@ -24,7 +24,7 @@ public class Pet {
         
         
  public void feed(){  
-    String name = "Ade"; 
+     
 System.out.println(this.name + " is eating a yummy bone! Yum Yum");
 
  }
